@@ -1,5 +1,5 @@
 #
-
+*** This is a set of sample codes to show a general schema of AI system *** 
 *** SHOULD BE STARTED IN src FOLDER !!!
 *** FULL PATH statement is required !!! 
 
