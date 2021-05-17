@@ -15,7 +15,7 @@
 * MERGE tables and EXPORT csv file
  ./getData.sh [uploadPATH] [inputdir]
 
- > ./getData.sh /User/unomicdgx/srv/save sub_0001
+ > ./getData.sh /User/user/srv/save sub_0001
 
 --------------------------------------------------------------------------
 * TRAINING
